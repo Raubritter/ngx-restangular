@@ -1,5 +1,4 @@
 {
-  "version": "0.1",
   "name": "ngx-restangular",
   "scripts": {
     "start": "ng serve",
